@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="menu_list">
+        <item>@array/Pizza</item>
+        <item>@array/Spaghetti</item>
+        <item>@array/Burger</item>
+        <item>@array/Steak</item>
+    </array>
+
+    <array name="Pizza">
+        <item>@drawable/pizza2</item>
+        <item>Pepperoni Pizza</item>
+        <item>Cocok bagi anda yang ingin merasakan pizza original
+            dengan taburan keju dan daging asap yang lezat</item>
+    </array>
+
+    <array name="Spaghetti">
+        <item>@drawable/spaghetti</item>
+        <item>Spaghetti</item>
+        <item>Cocok bagi anda yang ingin merasakan spaghetti
+            original dengan bumbu yang oriental</item>
+    </array>
+
+    <array name="Burger">
+        <item>@drawable/burger</item>
+        <item>Burger</item>
+        <item>Cocok bagi anda yang ingin merasakan kelembutan
+            burger berlapiskan keju, sayuran dan daging yang tebal</item>
+    </array>
+
+    <array name="Steak">
+        <item>@drawable/steak</item>
+        <item>Steak</item>
+        <item>Cocok bagi anda yang ingin merasakan lezatnya daging
+            steak dipadukan dengan kentang yang lezat</item>
+    </array>
+
+    <string-array name="store_array">
+        <item>Cihampelas</item>
+        <item>Cibiru</item>
+    </string-array>
+</resources>
